@@ -1,12 +1,10 @@
-![WorkingBanner!](images/banner.jpg)
-<h1 align="center">Hi 👋, I'm Fabian, nice to meet you!</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+![WorkingBanner!](banner.jpg)
+<br />
 
 - 📫  How to reach me **info@fabianmail.com**
 
--  ⚡  Fun fact **I love coffee and cats.**
+- 📖 Fun fact **I love ☕️ and 🐈.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
