@@ -1,4 +1,4 @@
-![WorkingBanner!](banner.png)
+![Banner!](banner.png)
 <br />
 
 - 📫  How to reach me **info@fabianmail.com**
