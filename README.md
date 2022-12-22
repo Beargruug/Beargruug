@@ -3,7 +3,7 @@
 
 - 📫  How to reach me **info@fabianmail.com**
 
-- 📖 Fun fact **I love ☕️ and 🐈.**
+- 📖 **I love ☕️ and 🐈.**
 
 <p align="left">
 </p>
