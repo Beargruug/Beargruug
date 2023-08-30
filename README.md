@@ -1,7 +1,7 @@
 ![Banner!](welcome.png)
 <br />
 <div align="left">
-<a href="https://app.daily.dev/fabianscheid"><img align="right" src="https://github.com/L9us/L9us/blob/main/devcard.svg" width="400" alt="Fabian Scheid's Dev Card"/></a>
+<a href="https://app.daily.dev/L9us"><img align="right" src="https://github.com/L9us/L9us/blob/main/devcard.svg" width="400" alt="Fabian Scheid's Dev Card"/></a>
 
 - 📫  How to reach me **info@fabianmail.com**
 
