@@ -1,5 +1,7 @@
 ![Banner!](welcome.png)
 <br />
+<div align="left">
+<a href="https://app.daily.dev/fabianscheid"><img align="right" src="https://api.daily.dev/devcards/bfd4bef1ed9f4beda35e9e9788825ad6.png?r=dew" width="400" alt="Fabian Scheid's Dev Card"/></a>
 
 - 📫  How to reach me **info@fabianmail.com**
 
@@ -57,3 +59,4 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://vim.org" target="_blank" rel="noreferrer"> <img src="https://github.com/vim/vim/raw/master/runtime/vimlogo.gif" alt="vim" width="60" height="40"/> </a> 
 </p>
+    </div>
