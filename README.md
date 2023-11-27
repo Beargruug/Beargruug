@@ -1,7 +1,7 @@
 ![Banner!](welcome.png)
 <br />
 <div align="left">
-<a href="https://app.daily.dev/L9us"><img align="right" src="https://github.com/L9us/L9us/blob/main/devcard.svg" width="400" alt="Fabian Scheid's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/L9us"><img align="right" src="https://github.com/L9us/L9us/blob/main/devcard.svg" width="400" alt="Fabian Scheid's Dev Card"/></a>-->
 
 - 📫  How to reach me **info@fabianmail.com**
 
@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages:</h>
 <br />
@@ -59,4 +59,4 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://vim.org" target="_blank" rel="noreferrer"> <img src="https://github.com/vim/vim/raw/master/runtime/vimlogo.gif" alt="vim" width="60" height="40"/> </a> 
 </p>
-    </div>
+    </div>-->
