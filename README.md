@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub!
 
-Hi there! I’m **Fabian**, a passionate developer who loves ☕ coffee, 🐈 cats, and crafting beautiful code. Here’s a little about me:
+Hello there! I’m **Fabian**, a passionate developer who loves ☕ coffee, 🐈 cats, and crafting beautiful code. Here’s a little about me:
 
 ---
 
