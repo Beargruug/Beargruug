@@ -18,21 +18,4 @@ Hello there! I’m **Fabian**, a passionate developer who loves ☕ coffee, 🐈
 
 Here are some of the tools and technologies I work with:
 
-- **Editor**: Neovim (because who doesn’t love a good Neovim?).
-
----
-
-## 🌱 Fun Facts
-
-- ☕ I believe coffee is the fuel for creativity.
-- 🐱 My cats are my coding companions—they love to sit on my keyboarsdjkjfd!
-
----
-
-## 📫 Let’s Connect!
-
-Feel free to reach out or explore my repositories. I’d love to hear from you!
-
----
-
-> “Code is like coffee—it’s better when shared.” ☕
+- **Editor**: Neovim (btw).
